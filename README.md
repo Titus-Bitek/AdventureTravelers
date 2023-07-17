@@ -6,7 +6,7 @@ The Flutter Travel Plan App is a mobile application built using the Flutter fram
 
 **Itinerary Planning**; Users can create personalized travel itineraries by adding destinations, dates, activities, and notes. They can easily manage and modify their itineraries according to their preferences.
 
-**Real-time Weather Updates**; The pp provides real-time weather updates for selected destinations, helping users plan their trips accordingly.
+**Real-time Weather Updates**; The app provides real-time weather updates for selected destinations, helping users plan their trips accordingly.
 
 **Travel Recommendations**; Users can discover curated travel recommendations and suggestions for popular destinations, including must-visit places, local attractions, and hidden gems.
 
